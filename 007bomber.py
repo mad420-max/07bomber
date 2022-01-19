@@ -26,7 +26,7 @@ print (cyan+"""
 """)
 
 phone  = input("phone number: ")
-sms = int(input("amount: "))
+amount = int(input("amount: "))
 
 url ="https://www.bioscopelive.com/bn/login/send-otp?phone=88"+phone+"&operator=bd-otp"
 
