@@ -19,7 +19,7 @@ print (cyan+"""
 
 ------------------------------------------------
  Author   :           V4DDUR
- Facebook :         V4DDUR
+ Facebook :           V4DDUR
  GitHub  :             mad420-max
  Version :              1.0
 ------------------------------------------------
