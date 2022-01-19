@@ -1,6 +1,6 @@
 import os
 import time
-from urllib import requests
+import requests
 
 
 phone  = input("phone number: ")
