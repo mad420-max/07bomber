@@ -3,8 +3,8 @@ import time
 import requests
 os.system('clear')
 
-ucyan="\033[4;36m" 
-print (ucyan+"""  
+cyan="\033[0;36m"  
+print (cyan+"""  
  __     ___  _   ____  ____  _   _ ____  
  \ \   / / || | |  _ \|  _ \| | | |  _ \ 
   \ \ / /| || |_| | | | | | | | | | |_) |
