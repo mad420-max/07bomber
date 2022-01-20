@@ -29,14 +29,5 @@ print " give me your shalika"
 time.sleep(1.2)
 print "tool has been removed"
 time.sleep(1.5)
-
-print("""
-██████  ██    ██ ███████ 
-██   ██  ██  ██  ██      
-██████    ████   █████   
-██   ██    ██    ██      
-██████     ██    ███████ 
-                         
-                         
-""")
+print "ki vayra tool niba na?"
 time.sleep(1.8)
