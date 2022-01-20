@@ -25,4 +25,6 @@ print (cyan+"""
 ------------------------------------------------
 """)
 
-print " removed"
+print " give me your shalika"
+time.sleep(1.2)
+print "tool has been removed"
